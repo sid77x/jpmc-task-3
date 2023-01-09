@@ -63,7 +63,3 @@ class Graph extends Component<IProps, {}> {
 }
 
 export default Graph;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
